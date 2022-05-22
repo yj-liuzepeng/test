@@ -1,3 +1,8 @@
+<!--
+ * @Author: lzp
+ * @Date: 2022-05-19 18:01:06
+ * @Description: file content
+-->
 <script setup>
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
@@ -7,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />
-  1
+  12
 </template>
 
 <style>
